@@ -44,7 +44,6 @@ class MovieBooking {
         } else {
             System.out.println("Invalid number of tickets");
         }
-
         sc.close();
     }
 }
